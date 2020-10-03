@@ -1,0 +1,50 @@
+C:\Users\Shree\django_project\MLDeployment\firstMLDeploy>tree /f
+Folder PATH listing
+Volume serial number is B406-2242
+C:.
+│   db.sqlite3
+│   manage.py
+│
+├───firstMLDeploy
+│   │   asgi.py
+│   │   settings.py
+│   │   urls.py
+│   │   wsgi.py
+│   │   __init__.py
+│   │
+│   └───__pycache__
+│           settings.cpython-38.pyc
+│           urls.cpython-38.pyc
+│           wsgi.cpython-38.pyc
+│           __init__.cpython-38.pyc
+│
+├───model
+│       tmodel.pkl
+│       tmodel.sav
+│
+├───slr
+│   │   admin.py
+│   │   apps.py
+│   │   models.py
+│   │   tests.py
+│   │   tmodel.sav
+│   │   views.py
+│   │   __init__.py
+│   │
+│   ├───migrations
+│   │   │   __init__.py
+│   │   │
+│   │   └───__pycache__
+│   │           __init__.cpython-38.pyc
+│   │
+│   └───__pycache__
+│           admin.cpython-38.pyc
+│           models.cpython-38.pyc
+│           views.cpython-38.pyc
+│           __init__.cpython-38.pyc
+│
+└───templates
+        index.html
+
+
+C:\Users\Shree\django_project\MLDeployment\firstMLDeploy>
